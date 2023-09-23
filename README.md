@@ -1,8 +1,5 @@
-Hi 👋 My name is Subash
+Hi 👋 I am Subash
 =======================
-
-Senior Geospatial Data Scientist
---------------------------------
 
 I love to solve the problems using simpler approaches before jumping onto complex techniques
 
